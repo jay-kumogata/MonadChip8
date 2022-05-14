@@ -2,13 +2,13 @@
 
 ## Introduction
 
-MonadChip8 is a CHIP-8 emulator written in Haskell language.
+MonadChip8 is a CHIP-8 emulator written in Haskell.
 
 ![](https://github.com/jay-kumogata/MonadChip8/blob/master/screenshots/AMABIE04.png)
 
 ## How to Play
 
-Please execute the following from Stack (version 2.7.3) environment.
+Please execute the following from the Stack (version 2.7.3) environment.
 
 	> stack setup
 	> stack install random
