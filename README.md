@@ -4,7 +4,7 @@
 
 MonadChip8 is a CHIP-8 emulator written in Haskell.
 
-![](https://github.com/jay-kumogata/MonadChip8/blob/master/screenshots/AMABIE04.png)
+<img src="https://github.com/jay-kumogata/MonadChip8/blob/master/screenshots/AMABIE04.png" width="300">
 
 ## How to Play
 
