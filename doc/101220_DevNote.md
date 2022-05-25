@@ -129,7 +129,12 @@ wikiに記載したことを修正しました．
 
 ### 2018-09-14
 
-haskell版chip8エミュレータの[ソース](https://github.com/jay-kumogata/MonadChip8)を公開してます．ライブラリとして，[gloss](http://gloss.ouroborus.net)が必要です．'With cabal'でインストールして下さい．そして，コンパイル($ ghc MonadChip8.hs)して，実行($ MonadChip8 PONG)します．
+haskell版chip8エミュレータの[ソース](https://github.com/jay-kumogata/MonadChip8)を公開してます．ライブラリとして，[gloss](http://gloss.ouroborus.net)が必要です．'With cabal'でインストールして下さい．そして，コンパイル('> ghc MonadChip8.hs')して，実行('> MonadChip8 PONG')します．
+
+### 2018-10-26
+
+gloss-1.13.0.1に更新して，再度リンクしました．
+画面描画が速くなったような気がします．気のせいかもしれません．
 
 ### 2019-09-27
 
